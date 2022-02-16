@@ -1,0 +1,8 @@
+9/7/2021
+Jessie George
+Stewart Mckenzie
+Bryan Sosa
+
+3 shapes: triangle, square, hexagon.
+Alternate shapes on left click through switch case.
+Green shapes on black background.
